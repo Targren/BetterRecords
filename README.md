@@ -1,17 +1,10 @@
+Forked and rolled-back to pre-nuking, to match the mod still on curseforge.
+
 BetterRecords
 =============
-[![curse badge]][curse] [![discord badge]][discord]
 
 Better Records adds the ability to download your favorite songs
 from the internet directly into your game, for all your friends to hear!
-
-Modpacks
-========
-You may use this mod in your modpack as long as:
-
-* You link back to the [Curse page][curse]
-* You don't make money off of your modpack
-* You do not take credit for making any part of this mod. Give credit where credit is due. (NicholasFeldman & Stumblinbear)
 
 Developing / Compiling
 ======================
