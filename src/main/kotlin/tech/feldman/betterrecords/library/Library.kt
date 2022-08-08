@@ -77,7 +77,14 @@ class LocalLibrary(val file: File) : Library() {
  */
 class RemoteLibrary(url: URL) : Library() {
 
-    override val libraryContent = LibraryContent.fromJson(url.readText())
+    override val libraryContent = try
+    {
+        LibraryContent.fromJson(url.readText());
+    } catch (e:Exception ) {
+        LibraryContent.fromJson("{}");
+    }
+
+
 
 }
 

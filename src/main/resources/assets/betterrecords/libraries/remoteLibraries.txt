@@ -1,2 +1,2 @@
-# Add URLs to remote libraries here, one per line.
+# Add URLs to remote libraries here, one per line. Links must point to valid BetterRecords JSON data
 # Lines starting with "#" are comments and will not be read.
